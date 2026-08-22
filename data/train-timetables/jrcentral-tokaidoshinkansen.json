@@ -1,0 +1,31 @@
+[
+	{
+		"id": "JR-Central.TokaidoShinkansen.Test001.Weekday",
+		"t": "JR-Central.TokaidoShinkansen.Test001",
+		"r": "JR-Central.TokaidoShinkansen",
+		"n": "Test001",
+		"y": "JR-Central.Shinkansen",
+		"d": "Outbound",
+		"os": [
+			"JR-Central.TokaidoShinkansen.Tokyo"
+		],
+		"ds": [
+			"JR-Central.TokaidoShinkansen.ShinYokohama"
+		],
+		"tt": [
+			{
+				"s": "JR-Central.TokaidoShinkansen.Tokyo",
+				"d": "23:10"
+			},
+			{
+				"s": "JR-Central.TokaidoShinkansen.Shinagawa",
+				"a": "23:17",
+				"d": "23:18"
+			},
+			{
+				"s": "JR-Central.TokaidoShinkansen.ShinYokohama",
+				"a": "23:30"
+			}
+		]
+	}
+]
